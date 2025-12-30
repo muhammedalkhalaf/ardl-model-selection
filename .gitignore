@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Ruserdata
+app_log.txt
+app_error.txt
+*.log
+.DS_Store
+Thumbs.db

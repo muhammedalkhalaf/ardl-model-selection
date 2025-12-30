@@ -1,0 +1,114 @@
+/* =============================================================================
+   تنسيقات مخصصة للتطبيق
+   Custom CSS for ARDL App
+   ============================================================================= */
+
+/* RTL Support */
+body {
+  direction: rtl;
+  font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+}
+
+.content-wrapper {
+  direction: rtl;
+  text-align: right;
+}
+
+.main-sidebar {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Box Titles */
+.box-title {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Score Badges */
+.score-badge {
+  display: inline-block;
+  font-size: 28px;
+  font-weight: bold;
+  padding: 15px 25px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.score-high {
+  background-color: #28a745;
+  color: white;
+}
+
+.score-medium {
+  background-color: #ffc107;
+  color: black;
+}
+
+.score-low {
+  background-color: #dc3545;
+  color: white;
+}
+
+/* Info Boxes */
+.info-box-number {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Tables */
+.dataTables_wrapper {
+  direction: ltr;
+}
+
+.table {
+  margin-bottom: 0;
+}
+
+/* Buttons */
+.btn-block {
+  margin-bottom: 10px;
+}
+
+/* Sidebar Menu */
+.sidebar-menu > li > a {
+  font-size: 14px;
+  padding: 12px 15px;
+}
+
+/* Tab Content */
+.nav-tabs-custom > .tab-content {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Value Boxes */
+.small-box {
+  border-radius: 10px;
+}
+
+.small-box h3 {
+  font-size: 28px;
+}
+
+/* Cards */
+.box {
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Plots */
+.shiny-plot-output {
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+/* Loading Spinner */
+.shiny-busy {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+}
