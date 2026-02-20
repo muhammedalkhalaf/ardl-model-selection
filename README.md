@@ -8,9 +8,9 @@
 
 ## 🌐 جرب التطبيق مباشرة
 
-[![Launch App](https://img.shields.io/badge/🚀_Launch_App-shinyapps.io-blue?style=for-the-badge)](https://muhammedalkhalaf.shinyapps.io/ardl_app/)
+[![Launch App](https://img.shields.io/badge/🚀_Launch_App-shinyapps.io-blue?style=for-the-badge)]([https://muhammedalkhalaf.shinyapps.io/ardl_app/](https://drmuhammad.shinyapps.io/ardl-model-selection/))
 
-**[👉 افتح التطبيق الآن](https://muhammedalkhalaf.shinyapps.io/ardl_app/)**
+**[👉 افتح التطبيق الآن](https://drmuhammad.shinyapps.io/ardl-model-selection/)**
 
 ---
 
